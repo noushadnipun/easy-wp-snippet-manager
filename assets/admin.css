@@ -1,0 +1,7 @@
+.ewpsm-topbar{display:flex;align-items:center;gap:10px;margin:0 0 10px}
+.ewpsm-topbar label{font-weight:600}
+.ewpsm-badge{display:none;background:#2271b1;color:#fff;border-radius:3px;padding:2px 8px;font-size:12px}
+.ewpsm-row{display:flex;gap:24px;flex-wrap:wrap;margin-top:16px}
+.ewpsm-field>label,.ewpsm-label{display:block;font-weight:600;margin-bottom:6px}
+#ewpsm_code{width:100%;min-height:320px;font-family:Menlo,Consolas,monospace}
+.ewpsm-code .CodeMirror{border:1px solid #c3c4c7;min-height:320px}
